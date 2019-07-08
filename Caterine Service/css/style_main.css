@@ -1,0 +1,20 @@
+*{margin: 0; padding:0;}
+
+.wrapper {
+	width: 800px;
+}
+
+.header {
+	color: darkred;
+	margin:10px;
+}
+
+.misson {
+	background-color:antiquewhite;
+	margin-left:10px;
+}
+
+.misson p {
+	padding :10px;
+	font-family :sans-serif;
+}
