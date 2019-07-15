@@ -5,6 +5,18 @@ body {
 	height:100%;
 }
 
+.menu {
+	background-color:#F4BD62;
+	margin-left:100px;
+	width:500px;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
 .menu ul li ol li {
 	list-style-type:lower-alpha;
+}
+
+.menu ul li ol li ol li {
+	list-style-type:lower-greek;
 }

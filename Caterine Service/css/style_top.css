@@ -9,17 +9,3 @@ header img{
 	height:200px;;
 }
 
-.left{
-	clear:both;
-	float:left;
-}
-
-.left iframe{
-	height:400px;
-}
-
-.main {
-	position:absolute;
-	top:30%;
-	left:31%;
-}
